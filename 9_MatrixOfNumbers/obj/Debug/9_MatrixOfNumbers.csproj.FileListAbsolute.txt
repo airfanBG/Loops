@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\9_MatrixOfNumbers\bin\Debug\9_MatrixOfNumbers.exe.config
+D:\programming\7.loops\7.Loops\9_MatrixOfNumbers\bin\Debug\9_MatrixOfNumbers.exe
+D:\programming\7.loops\7.Loops\9_MatrixOfNumbers\bin\Debug\9_MatrixOfNumbers.pdb
+D:\programming\7.loops\7.Loops\9_MatrixOfNumbers\obj\Debug\9_MatrixOfNumbers.exe
+D:\programming\7.loops\7.Loops\9_MatrixOfNumbers\obj\Debug\9_MatrixOfNumbers.pdb
+D:\programming\7.loops\7.Loops\9_MatrixOfNumbers\obj\Debug\9_MatrixOfNumbers.csprojResolveAssemblyReference.cache

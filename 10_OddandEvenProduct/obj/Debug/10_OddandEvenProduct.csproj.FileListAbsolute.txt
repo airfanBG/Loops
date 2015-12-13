@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\10_OddandEvenProduct\bin\Debug\10_OddandEvenProduct.exe.config
+D:\programming\7.loops\7.Loops\10_OddandEvenProduct\bin\Debug\10_OddandEvenProduct.exe
+D:\programming\7.loops\7.Loops\10_OddandEvenProduct\bin\Debug\10_OddandEvenProduct.pdb
+D:\programming\7.loops\7.Loops\10_OddandEvenProduct\obj\Debug\10_OddandEvenProduct.csprojResolveAssemblyReference.cache
+D:\programming\7.loops\7.Loops\10_OddandEvenProduct\obj\Debug\10_OddandEvenProduct.exe
+D:\programming\7.loops\7.Loops\10_OddandEvenProduct\obj\Debug\10_OddandEvenProduct.pdb

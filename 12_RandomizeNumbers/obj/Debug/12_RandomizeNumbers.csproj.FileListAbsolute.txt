@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\12_RandomizeNumbers\bin\Debug\12_RandomizeNumbers.exe.config
+D:\programming\7.loops\7.Loops\12_RandomizeNumbers\bin\Debug\12_RandomizeNumbers.exe
+D:\programming\7.loops\7.Loops\12_RandomizeNumbers\bin\Debug\12_RandomizeNumbers.pdb
+D:\programming\7.loops\7.Loops\12_RandomizeNumbers\obj\Debug\12_RandomizeNumbers.csprojResolveAssemblyReference.cache
+D:\programming\7.loops\7.Loops\12_RandomizeNumbers\obj\Debug\12_RandomizeNumbers.exe
+D:\programming\7.loops\7.Loops\12_RandomizeNumbers\obj\Debug\12_RandomizeNumbers.pdb

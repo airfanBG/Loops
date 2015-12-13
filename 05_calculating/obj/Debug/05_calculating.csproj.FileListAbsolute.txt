@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\05_calculating\bin\Debug\05_calculating.exe.config
+D:\programming\7.loops\7.Loops\05_calculating\bin\Debug\05_calculating.exe
+D:\programming\7.loops\7.Loops\05_calculating\bin\Debug\05_calculating.pdb
+D:\programming\7.loops\7.Loops\05_calculating\obj\Debug\05_calculating.csprojResolveAssemblyReference.cache
+D:\programming\7.loops\7.Loops\05_calculating\obj\Debug\05_calculating.exe
+D:\programming\7.loops\7.Loops\05_calculating\obj\Debug\05_calculating.pdb

@@ -1,0 +1,5 @@
+D:\programming\7.loops\7.Loops\08_CatalanNumbers\bin\Debug\08_CatalanNumbers.exe.config
+D:\programming\7.loops\7.Loops\08_CatalanNumbers\bin\Debug\08_CatalanNumbers.exe
+D:\programming\7.loops\7.Loops\08_CatalanNumbers\bin\Debug\08_CatalanNumbers.pdb
+D:\programming\7.loops\7.Loops\08_CatalanNumbers\obj\Debug\08_CatalanNumbers.exe
+D:\programming\7.loops\7.Loops\08_CatalanNumbers\obj\Debug\08_CatalanNumbers.pdb

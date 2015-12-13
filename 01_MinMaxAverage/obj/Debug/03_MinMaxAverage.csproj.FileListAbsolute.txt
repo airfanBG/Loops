@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\01_MinMaxAverage\bin\Debug\01_MinMaxAverage.exe.config
+D:\programming\7.loops\7.Loops\01_MinMaxAverage\bin\Debug\01_MinMaxAverage.exe
+D:\programming\7.loops\7.Loops\01_MinMaxAverage\bin\Debug\01_MinMaxAverage.pdb
+D:\programming\7.loops\7.Loops\01_MinMaxAverage\obj\Debug\03_MinMaxAverage.csprojResolveAssemblyReference.cache
+D:\programming\7.loops\7.Loops\01_MinMaxAverage\obj\Debug\01_MinMaxAverage.exe
+D:\programming\7.loops\7.Loops\01_MinMaxAverage\obj\Debug\01_MinMaxAverage.pdb

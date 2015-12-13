@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\04_DeckOf52Cards\bin\Debug\04_DeckOf52Cards.exe.config
+D:\programming\7.loops\7.Loops\04_DeckOf52Cards\bin\Debug\04_DeckOf52Cards.exe
+D:\programming\7.loops\7.Loops\04_DeckOf52Cards\bin\Debug\04_DeckOf52Cards.pdb
+D:\programming\7.loops\7.Loops\04_DeckOf52Cards\obj\Debug\04_DeckOf52Cards.exe
+D:\programming\7.loops\7.Loops\04_DeckOf52Cards\obj\Debug\04_DeckOf52Cards.pdb
+D:\programming\7.loops\7.Loops\04_DeckOf52Cards\obj\Debug\04_DeckOf52Cards.csprojResolveAssemblyReference.cache

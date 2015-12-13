@@ -1,0 +1,6 @@
+D:\programming\7.loops\7.Loops\07_CalculateN\bin\Debug\07_CalculateN.exe.config
+D:\programming\7.loops\7.Loops\07_CalculateN\bin\Debug\07_CalculateN.exe
+D:\programming\7.loops\7.Loops\07_CalculateN\bin\Debug\07_CalculateN.pdb
+D:\programming\7.loops\7.Loops\07_CalculateN\obj\Debug\07_CalculateN.exe
+D:\programming\7.loops\7.Loops\07_CalculateN\obj\Debug\07_CalculateN.pdb
+D:\programming\7.loops\7.Loops\07_CalculateN\obj\Debug\07_CalculateN.csprojResolveAssemblyReference.cache
